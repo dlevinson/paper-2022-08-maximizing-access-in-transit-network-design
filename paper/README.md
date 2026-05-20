@@ -3,7 +3,7 @@
 
 This folder contains a local reference copy of the paper text used for audit validation.
 
-These copies are for local package review convenience. Review publisher and repository rights before including article PDFs in any public GitHub release.
+This publisher-final PDF states `CC_BY_NC_ND_4.0` and is included in the public GitHub repository under that license. Keep it unchanged and cite the DOI/publisher page alongside the local PDF.
 
 - Row ID: `paper-2022-08`
 - Citation: Rayaprolu, Wu, Lahoorpoor, Levinson. (2022). Maximizing Access In Transit Network Design. JPT 24:100027 (2022). 10.1016/j.jpubtr.2022.100027

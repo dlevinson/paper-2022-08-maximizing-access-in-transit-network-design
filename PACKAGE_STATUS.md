@@ -25,5 +25,5 @@ Generated: 2026-05-20 15:32:54 AEST
 ## Upload Boundary
 
 - Use `PACKAGE_MANIFEST.csv` as the upload checklist.
-- Treat files under `paper/` as local reference copies unless rights review explicitly clears them.
-- GitHub upload completed; continue to treat local `paper/` PDFs as reference-only unless rights review separately clears public redistribution.
+- The publisher-final PDF in `paper/` is included because rights review found the PDF's CC BY-NC-ND 4.0 notice.
+- GitHub upload completed; continue to treat any other local paper PDFs as reference-only unless rights review separately clears public redistribution.

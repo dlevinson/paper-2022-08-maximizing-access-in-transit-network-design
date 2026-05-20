@@ -25,7 +25,7 @@ The published paper states that the study built 13 service levels for T-way rout
 
 ## Included Files
 
-- `paper/` contains the publisher-final PDF used for local audit reference.
+- `paper/` contains the publisher-final open-access PDF. The PDF states `CC_BY_NC_ND_4.0`.
 - `code/gtfs_generation_workflow/` contains the hydrated notebooks, Python helper, route schedules, stop-by-route tables, travel-time tables, route/stop/shape inputs, and current GTFS source zip used for scenario generation.
 - `data/gis/route_stop_scenario_layers/` contains the hydrated route, stop, grid, and TOD scenario shapefile layers.
 - `data/gis/developable_land_subset_review/` contains land-use and developable-land GIS layers relevant to the Liverpool scenario setup.
@@ -43,7 +43,7 @@ The generated scenario zip output names in the live Dropbox GTFS output folder a
 
 ## Upload Mechanics
 
-The package is uploaded to GitHub at https://github.com/dlevinson/paper-2022-08-maximizing-access-in-transit-network-design. The current package includes a GTFS source zip of about 131 MB, which is tracked with Git LFS. The compressed GIS bundles of about 32 MB and 43 MB remain ordinary package files. Local `paper/*.pdf` reference copies are retained on disk for audit convenience but ignored from the public GitHub tree unless redistribution rights are separately cleared.
+The package is uploaded to GitHub at https://github.com/dlevinson/paper-2022-08-maximizing-access-in-transit-network-design. The current package includes a GTFS source zip of about 131 MB, which is tracked with Git LFS. The compressed GIS bundles of about 32 MB and 43 MB remain ordinary package files. The published Journal of Public Transportation PDF is included because the PDF states `CC_BY_NC_ND_4.0`.
 
 <!-- package-hardening-status:start -->
 ## Package Hardening Status
@@ -52,6 +52,6 @@ Generated: 2026-05-20 15:32:54 AEST
 
 - Pipeline: `UPLOADED`
 - Sidecars added/updated: `PACKAGE_STATUS.md`, `PACKAGE_MANIFEST.csv`, `LICENSE_STATUS.md`.
-- Paper reference copies are for local audit convenience and are not public-upload assets without rights review.
+- The published paper PDF is included because open-access redistribution rights were checked; other paper reference copies remain review-only unless separately cleared.
 - GitHub upload completed with LFS for the >100 MiB GTFS source zip.
 <!-- package-hardening-status:end -->

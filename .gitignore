@@ -4,8 +4,3 @@
 __pycache__/
 *.pyc
 # local-package-git-hygiene:end
-
-# public-upload-paper-pdf-exclusion:start
-paper/*.pdf
-paper/*.PDF
-# public-upload-paper-pdf-exclusion:end
