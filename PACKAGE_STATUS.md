@@ -5,7 +5,7 @@ Generated: 2026-05-20 15:32:54 AEST
 ## Audit State
 
 - Row ID: `paper-2022-08`
-- Pipeline: `READY-TO-UPLOAD/PUBLIC`
+- Pipeline: `UPLOADED`
 - Upload action: `upload_candidate`
 - Packaging status: `ready_to_package_review`
 - Rights status: `likely_clear_with_provenance`
@@ -26,4 +26,4 @@ Generated: 2026-05-20 15:32:54 AEST
 
 - Use `PACKAGE_MANIFEST.csv` as the upload checklist.
 - Treat files under `paper/` as local reference copies unless rights review explicitly clears them.
-- Confirm finality and license before repository creation.
+- GitHub upload completed; continue to treat local `paper/` PDFs as reference-only unless rights review separately clears public redistribution.

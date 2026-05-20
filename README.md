@@ -11,7 +11,7 @@
 
 ## Archive Status
 
-- Pipeline state: `READY-TO-UPLOAD/PUBLIC`
+- Pipeline state: `UPLOADED`
 - Audit upload action: `upload_candidate`
 - Rights status: `likely_clear_with_provenance`
 - Controlled access status: `none`
@@ -43,15 +43,15 @@ The generated scenario zip output names in the live Dropbox GTFS output folder a
 
 ## Upload Mechanics
 
-The current package includes a GTFS source zip of about 131 MB, which is tracked with Git LFS for GitHub upload. The compressed GIS bundles of about 32 MB and 43 MB remain ordinary package files. Local `paper/*.pdf` reference copies are retained on disk for audit convenience but ignored from the public GitHub tree unless redistribution rights are separately cleared.
+The package is uploaded to GitHub at https://github.com/dlevinson/paper-2022-08-maximizing-access-in-transit-network-design. The current package includes a GTFS source zip of about 131 MB, which is tracked with Git LFS. The compressed GIS bundles of about 32 MB and 43 MB remain ordinary package files. Local `paper/*.pdf` reference copies are retained on disk for audit convenience but ignored from the public GitHub tree unless redistribution rights are separately cleared.
 
 <!-- package-hardening-status:start -->
 ## Package Hardening Status
 
 Generated: 2026-05-20 15:32:54 AEST
 
-- Pipeline: `READY-TO-UPLOAD/PUBLIC`
+- Pipeline: `UPLOADED`
 - Sidecars added/updated: `PACKAGE_STATUS.md`, `PACKAGE_MANIFEST.csv`, `LICENSE_STATUS.md`.
 - Paper reference copies are for local audit convenience and are not public-upload assets without rights review.
-- Final GitHub upload should use the manifest include statuses and the license-status note.
+- GitHub upload completed with LFS for the >100 MiB GTFS source zip.
 <!-- package-hardening-status:end -->
