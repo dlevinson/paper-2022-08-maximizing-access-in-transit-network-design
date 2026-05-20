@@ -1,0 +1,9 @@
+source_or_package_path,decision,reason
+paper/1-s2.0-S1077291X22000273-main.pdf,include,Publisher-final paper reference for local audit.
+code/gtfs_generation_workflow,include,"Hydrated notebooks, Python helper, route schedules, stop-by-route files, travel-time tables, shapes/stops inputs, and current GTFS source used to construct the network-design GTFS scenarios."
+data/gis/route_stop_scenario_layers,include,"Hydrated QGIS/shapefile route, stop, grid, and TOD scenario layers matching the paper's route/stop geometry setup."
+data/gis/developable_land_subset_review,include,Hydrated land-use/developable-land GIS layers relevant to the Liverpool scenario inputs.
+data/gis/compressed_large_layers,include compressed,Compressed complete large shapefiles are retained instead of duplicating loose very large shapefile components.
+data/access_frequency_matrix,include,"Hydrated access, frequency matrix, iso-access, route-length, and regression notebooks/tables copied from the existing 2022-04 Liverpool package because the live Dropbox source copy is cloud-only."
+exact custom OTP batch-query wrapper,no active hunt,"The paper states OTP was used for isochrone queries, but a bespoke wrapper is not identified as a separate paper artifact; OpenTripPlanner is documented as an external runtime."
+Dropbox GTFS/output/combined generated scenario zip outputs,exclude from current public package,"The staged package includes the generation workflow, inputs, GIS layers, and access outputs. The live source output zip names are cloud-only zero-byte entries and are not treated as a blocker for public package review."

@@ -1,0 +1,1 @@
+code/gtfs_generation_workflow/input/gtfs_static_8jul2020.zip filter=lfs diff=lfs merge=lfs -text

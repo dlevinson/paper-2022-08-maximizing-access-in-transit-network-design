@@ -1,0 +1,65 @@
+﻿From,To,AOD-4,Type
+Austral AOD-1,Liverpool,27.9,Local
+Austral AOD-1,Business Park,26.2,Local
+Austral AOD-1,Leppington,9.6,Local
+Austral AOD-1,Aerotropolis,21.5,Local
+Austral AOD-2,Liverpool,31,Local
+Austral AOD-2,Business Park,23.1,Local
+Austral AOD-2,Leppington,12.6,Local
+Austral AOD-2,Aerotropolis,18.4,Local
+Austral AOD-3,Casula,27,Local
+Austral AOD-3,Business Park,29,Local
+Austral AOD-3,Leppington,6.7,Local
+Austral AOD-3,Aerotropolis South,20.2,Local
+Austral AOD-4,Casula,29.9,Local
+Austral AOD-4,Business Park,26.1,Local
+Austral AOD-4,Leppington,9.5,Local
+Austral AOD-4,Aerotropolis South,17.3,Local
+Rossmore AOD-1,Liverpool,34.4,Local
+Rossmore AOD-1,Mount Druitt,40.9,Local
+Rossmore AOD-1,Rossmore,11,Local
+Rossmore AOD-1,Aerotropolis,15,Local
+Rossmore AOD-2,Liverpool,37.6,Local
+Rossmore AOD-2,St Marys,34.6,Local
+Rossmore AOD-2,South Creek,11.4,Local
+Rossmore AOD-2,Aerotropolis,11.8,Local
+Rossmore AOD-3,Casula,33.4,Local
+Rossmore AOD-3,Mount Druitt,43.7,Local
+Rossmore AOD-3,Rossmore,8.2,Local
+Rossmore AOD-3,Aerotropolis South,13.8,Local
+Rossmore AOD-4,Casula,36.5,Local
+Rossmore AOD-4,St Marys,37.5,Local
+Rossmore AOD-4,South Creek,8.5,Local
+Rossmore AOD-4,Aerotropolis South,10.7,Local
+Kemps Creek AOD-1,Cabramatta,38.3,Local
+Kemps Creek AOD-1,Mount Druitt,35.9,Local
+Kemps Creek AOD-1,Rossmore,16,Local
+Kemps Creek AOD-1,Business Park,14.8,Local
+Kemps Creek AOD-2,Cabramatta,41.1,Local
+Kemps Creek AOD-2,St Marys,29.6,Local
+Kemps Creek AOD-2,South Creek,16.4,Local
+Kemps Creek AOD-2,Business Park,11.7,Local
+Kemps Creek AOD-3,Liverpool,36.9,Local
+Kemps Creek AOD-3,Mount Druitt,38.4,Local
+Kemps Creek AOD-3,Rossmore,13.5,Local
+Kemps Creek AOD-3,Aerotropolis,17.6,Local
+Kemps Creek AOD-4,Liverpool,40.1,Local
+Kemps Creek AOD-4,St Marys,32.1,Local
+Kemps Creek AOD-4,South Creek,14,Local
+Kemps Creek AOD-4,Aerotropolis,14.3,Local
+Aerotropolis,Casula,21.7,Tway
+Casula,Aerotropolis South,21.6,Tway
+Aerotropolis,Liverpool,22.6,Tway
+Liverpool,Aerotropolis,22.6,Tway
+Aerotropolis,Liverpool,25.1,Tway
+Liverpool,Aerotropolis,25.1,Tway
+Business Park,Cabramatta,24.3,Tway
+Cabramatta,Business Park,24.4,Tway
+Aerotropolis,Business Park,5.7,Tway
+Business Park,Aerotropolis,5.7,Tway
+South Creek,St Marys,20.7,Tway
+St Marys,South Creek,20.7,Tway
+Mount Druitt,Rossmore,23.6,Tway
+Rossmore,Mount Druitt,23.6,Tway
+Business Park,Leppington,15.6,Tway
+Leppington,Business Park,15.5,Tway
