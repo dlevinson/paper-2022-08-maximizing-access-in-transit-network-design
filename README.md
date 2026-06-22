@@ -1,5 +1,9 @@
 # Maximizing Access In Transit Network Design
 
+## Contribution
+
+This paper develops an access-oriented method for choosing the cost-effective mix of local and express transit. Across 195 Liverpool scenarios, iso-access lines identify the service combinations that maximize reachable jobs for a given budget and show how the preferred balance shifts toward faster T-way service as the accessibility time horizon increases.
+
 ## Bibliographic Information
 
 - Row ID: `paper-2022-08`
