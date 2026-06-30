@@ -4,6 +4,13 @@
 
 This paper develops an access-oriented method for choosing the cost-effective mix of local and express transit. Across 195 Liverpool scenarios, iso-access lines identify the service combinations that maximize reachable jobs for a given budget and show how the preferred balance shifts toward faster T-way service as the accessibility time horizon increases.
 
+## License
+
+Author-created code and scripts are licensed under MIT. Repository-created
+documentation and derived data are licensed under CC BY 4.0. The paper PDF
+under `paper/` retains its published article terms, and any third-party source
+material is not relicensed here.
+
 ## Bibliographic Information
 
 - Row ID: `paper-2022-08`

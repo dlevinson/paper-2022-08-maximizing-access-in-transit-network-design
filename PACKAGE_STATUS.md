@@ -1,6 +1,6 @@
 # Package Status: Maximizing Access In Transit Network Design
 
-Generated: 2026-05-20 15:32:54 AEST
+Generated: 2026-07-01 AEST
 
 ## Audit State
 
@@ -24,6 +24,7 @@ Generated: 2026-05-20 15:32:54 AEST
 
 ## Upload Boundary
 
+- Mixed license boundary: MIT for author-created code and scripts, CC BY 4.0 for repository-created documentation and derived data, and original terms for `paper/` PDFs, GTFS source materials, and any third-party assets.
 - Use `PACKAGE_MANIFEST.csv` as the upload checklist.
 - The publisher-final PDF in `paper/` is included because rights review found the PDF's CC BY-NC-ND 4.0 notice.
 - GitHub upload completed; continue to treat any other local paper PDFs as reference-only unless rights review separately clears public redistribution.
